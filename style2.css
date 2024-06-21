@@ -1,0 +1,21 @@
+/* section{
+    padding: 100px 0;
+} */
+header .castom{
+    background: rgb(148, 145, 145) !important;
+}
+.custom .nuvbar-brand{
+    color: blue
+}
+.castom2 .c1{
+    color: purple;
+}
+.castom2 .c2{
+    color: red;
+}
+.castom2 .c3{
+    color: green;
+}
+.castom2 .c4{
+    color: violet;
+}
